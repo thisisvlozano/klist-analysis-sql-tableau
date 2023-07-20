@@ -45,7 +45,7 @@ I used SQL queries to analyze and summarize the insights below, to deliver to th
 - On average, customers make a purchase about 64 days (two months) after creating an account.
 - There is an average time of 14 days to delivery from the time a customer makes a purchase.
 
-**Shipping Times**:
+### **Shipping Times**:
 - Compared to other products, the Apple iPhone and Bose headphones have highly varied shipping times. This could be due to the lower order amounts for these products.
 
 ### **Marketing**

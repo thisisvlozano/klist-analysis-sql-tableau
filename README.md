@@ -11,7 +11,7 @@ Klist is an e-commerce company that sells popular electronics to domestic and in
 ### **Technical Process**:
 
 SQL queries can be found [here](https://github.com/thisivlozano/klist-analysis-sql-tableau/blob/main/klist_queries.sql). 
-- Used SQL and BigQuery to calculate aggregate functions, use CASE statements, combine tables with JOIN clauses, filter records (e.g. WHERE), arrange records (e.g. GROUP BY, ORDER BY), and simplify queries with common table expressions (CTEs).
+- Used SQL and BigQuery to calculate aggregate functions (e.g., `SUM`,`AVG`,`COUNT`), use `CASE` statements, combine tables with various `JOIN` clauses, filter records (e.g., `WHERE`), arrange records (e.g., `GROUP BY`,`ORDER BY`), simplify queries with common table expressions (CTEs), and rank values the dataset using window functions (e.g., `ROW_NUMBER()`)
 
 Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/vl8808/viz/KlistE-CommerceDashboard/Dashboard)
 - Built a Tableau dashboard from these values with the key target audiences in mind—finance, marketing, operations, and product teams. Included graphs related to total sales, average time to ship, total orders, and filters related to purchase year, marketing channel, product name, region, and purchase platform.

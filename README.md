@@ -8,7 +8,13 @@ Klist is an e-commerce company that sells popular electronics to domestic and in
 - Operational Performance
 - Marketing Channels
 
-I used SQL queries to analyze and summarize the insights below, to deliver to the finance, marketing, operations, and product teams. SQL queries can be found [here](https://github.com/thisivlozano/klist-analysis-sql-tableau/blob/main/klist_queries.sql). Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/vl8808/viz/KlistE-CommerceDashboard/Dashboard).
+### **Technical Process**:
+
+SQL queries can be found [here](https://github.com/thisivlozano/klist-analysis-sql-tableau/blob/main/klist_queries.sql). 
+- Used SQL and BigQuery to calculate aggregate functions, use CASE statements, combine tables with JOIN clauses, filter records (e.g. WHERE), arrange records (e.g. GROUP BY, ORDER BY), and simplify queries with common table expressions (CTEs).
+
+Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/vl8808/viz/KlistE-CommerceDashboard/Dashboard)
+- Built a Tableau dashboard from these values with the key target audiences in mind—finance, marketing, operations, and product teams. Included graphs related to total sales, average time to ship, total orders, and filters related to purchase year, marketing channel, product name, region, and purchase platform.
 
 <img width="800" alt="Klist (E-Commerce) Dashboard" src="https://github.com/thisivlozano/klist-analysis-sql-tableau/assets/136519035/b97ef51a-90c0-4d56-9faf-d441bf481b88">
 
